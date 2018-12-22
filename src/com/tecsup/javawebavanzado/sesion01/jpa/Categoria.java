@@ -5,6 +5,8 @@ import javax.persistence.*;
 import java.util.List;
 
 
+// Mensaje nuevo
+
 /**
  * The persistent class for the categoria database table.
  * 
